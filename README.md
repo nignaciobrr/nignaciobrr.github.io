@@ -2,6 +2,8 @@
 
 Prototipo para revisar el registro de sustancias y residuos entre sucursales. Aplicación estática en español, compatible con Netlify. No es un sistema productivo ni acredita cumplimiento normativo.
 
+La interfaz usa naranja `#f58a25`, negro `#171515` y blanco, tomando como referencia la imagen de CleverGroup facilitada para el prototipo. Los archivos SVG de `public/` son una reconstrucción vectorial de esa referencia, con tipografía aproximada; pueden sustituirse por los archivos oficiales cuando estén disponibles.
+
 ## Desarrollo
 
 Requiere Node.js 22.12 o posterior compatible con Vite 7 (ver `package-lock.json`).
